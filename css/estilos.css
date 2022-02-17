@@ -1,0 +1,17 @@
+body {
+    color: aqua;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hola {
+    color: black;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.chao {
+    color: blueviolet;
+    text-align: justify;
+    transform: none;
+}
