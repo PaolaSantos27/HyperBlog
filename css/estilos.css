@@ -2,15 +2,25 @@ body {
     color: orange;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background: papayawhip;
+     margin-top: 28px;
+     margin-bottom: auto;
+     margin-right: 250px;
+     margin-left: 250px;
 }
 
+.titulo {
+  margin-bottom: 100px;
+  margin-top: 60px;
+}
 .hola {
     color: black;
     text-align: left;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: arial;
     left: 12px;
     padding: 1em;
+  
+
+    background: papayawhip;
 }
 
 
@@ -22,3 +32,8 @@ body {
     
 }
 
+.personalidad {
+    content: icon;
+    image-rendering: auto;
+
+}
